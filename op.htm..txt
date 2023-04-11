@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> silver oak university </title>
+</head>
+<body>
+<h1>about</h1>
+<p>socet most popular university in ahemadabad,it situated in gota ,block B.
+  many course available in socet,it is good for student.</p>
+
+
+
+
+</body>
+</html>
